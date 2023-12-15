@@ -1,0 +1,6 @@
+com\MovieReview\MovieReview\MovieReviewApplication.class
+com\MovieReview\MovieReview\Review.class
+com\MovieReview\MovieReview\Movies.class
+com\MovieReview\MovieReview\movieController.class
+com\MovieReview\MovieReview\MovieRepository.class
+com\MovieReview\MovieReview\MovieService.class
